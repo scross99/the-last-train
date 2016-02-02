@@ -6,8 +6,8 @@ Vancouver
 
 .. image:: Vancouver.jpg
 	:target: https://upload.wikimedia.org/wikipedia/commons/0/0a/Vancouver_from_Grouse_mountain.jpg
-	:align: right
-	:height: 400px
+	:align: center
+	:width: 75%
 	:alt: Vancouver
 
 Adam rested his head against the pillow pressed into the side of his seat, enjoying its gentle comfort. The sun was setting over the horizon and the station lights were beginning to activate, one by one. Spread thinly around the platform, the passengers were loading their bags onto the train. Final farewells were being made. Kisses, hugs and handshakes.
@@ -35,8 +35,8 @@ Edmonton
 
 .. image:: Edmonton.jpg
 	:target: https://upload.wikimedia.org/wikipedia/commons/a/ac/Muttart_Conservatory_Skyline_Downtown_Edmonton_Alberta_Canada_01.jpg
-	:align: right
-	:height: 400px
+	:align: center
+	:width: 75%
 	:alt: Edmonton
 
 Adam woke calmly.
@@ -76,8 +76,8 @@ Saskatchewan
 
 .. image:: Saskatchewan.jpg
 	:target: https://upload.wikimedia.org/wikipedia/commons/a/a5/Saskatchewan_River_Crossing.jpg
-	:align: right
-	:height: 400px
+	:align: center
+	:width: 75%
 	:alt: Saskatchewan
 
 The next stop after Edmonton was Nuuk, Greenland. The distance between them was approximately 3500 km, much more than 800 km from Vancouver to Edmonton, but the train would take just twice the amount of the time to cover the second leg of the journey.
@@ -143,8 +143,8 @@ Hudson Bay
 
 .. image:: HudsonBay.jpg
 	:target: https://upload.wikimedia.org/wikipedia/commons/3/3b/Hudson_Bay_shore-fast_ice2.JPG
-	:align: right
-	:height: 400px
+	:align: center
+	:width: 75%
 	:alt: Hudson Bay
 
 The conversation between Adam and Josie continued for some time, covering a diverse array of topics.
